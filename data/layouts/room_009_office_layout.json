@@ -1,0 +1,113 @@
+{
+  "room_id": "room_009_office",
+  "room_type": "office",
+  "room_dimensions": {
+    "width": 5.32,
+    "depth": 3.57
+  },
+  "num_objects": 10,
+  "objects_skipped": 0,
+  "objects": [
+    {
+      "id": 1,
+      "category": "cabinet",
+      "x": 0.735,
+      "y": 0.9,
+      "z": 1.577,
+      "width": 0.782,
+      "depth": 0.416,
+      "height": 1.794
+    },
+    {
+      "id": 2,
+      "category": "door",
+      "x": 2.623,
+      "y": 1.05,
+      "z": 0.951,
+      "width": 0.925,
+      "depth": 0.124,
+      "height": 2.139
+    },
+    {
+      "id": 3,
+      "category": "door",
+      "x": 3.853,
+      "y": 1.05,
+      "z": 0.454,
+      "width": 0.891,
+      "depth": 0.11,
+      "height": 2.096
+    },
+    {
+      "id": 4,
+      "category": "door",
+      "x": 2.743,
+      "y": 1.05,
+      "z": 0.254,
+      "width": 0.875,
+      "depth": 0.163,
+      "height": 2.07
+    },
+    {
+      "id": 5,
+      "category": "desk",
+      "x": 3.839,
+      "y": 0.375,
+      "z": 2.339,
+      "width": 1.224,
+      "depth": 0.619,
+      "height": 0.769
+    },
+    {
+      "id": 6,
+      "category": "desk",
+      "x": 4.27,
+      "y": 0.375,
+      "z": 2.073,
+      "width": 1.202,
+      "depth": 0.58,
+      "height": 0.779
+    },
+    {
+      "id": 7,
+      "category": "chair",
+      "x": 2.885,
+      "y": 0.425,
+      "z": 2.981,
+      "width": 0.44,
+      "depth": 0.462,
+      "height": 0.833
+    },
+    {
+      "id": 8,
+      "category": "desk",
+      "x": 1.577,
+      "y": 0.375,
+      "z": 2.204,
+      "width": 1.207,
+      "depth": 0.585,
+      "height": 0.736
+    },
+    {
+      "id": 9,
+      "category": "cabinet",
+      "x": 1.652,
+      "y": 0.9,
+      "z": 0.373,
+      "width": 0.758,
+      "depth": 0.378,
+      "height": 1.794
+    },
+    {
+      "id": 10,
+      "category": "window",
+      "x": 2.84,
+      "y": 0.6,
+      "z": 0.604,
+      "width": 1.226,
+      "depth": 0.095,
+      "height": 1.199
+    }
+  ],
+  "source": "real_sensor"
+}

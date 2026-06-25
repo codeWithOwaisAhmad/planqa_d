@@ -1,0 +1,83 @@
+{
+  "room_id": "room_008_meeting_room",
+  "room_type": "meeting_room",
+  "room_dimensions": {
+    "width": 5.66,
+    "depth": 4.06
+  },
+  "num_objects": 7,
+  "objects_skipped": 1,
+  "objects": [
+    {
+      "id": 1,
+      "category": "chair",
+      "x": 2.828,
+      "y": 0.425,
+      "z": 1.695,
+      "width": 0.407,
+      "depth": 0.437,
+      "height": 0.854
+    },
+    {
+      "id": 2,
+      "category": "window",
+      "x": 0.68,
+      "y": 0.6,
+      "z": 3.639,
+      "width": 1.235,
+      "depth": 0.1,
+      "height": 1.171
+    },
+    {
+      "id": 4,
+      "category": "chair",
+      "x": 0.88,
+      "y": 0.425,
+      "z": 3.503,
+      "width": 0.498,
+      "depth": 0.413,
+      "height": 0.914
+    },
+    {
+      "id": 5,
+      "category": "bookshelf",
+      "x": 3.673,
+      "y": 0.9,
+      "z": 2.224,
+      "width": 0.918,
+      "depth": 0.308,
+      "height": 1.781
+    },
+    {
+      "id": 6,
+      "category": "door",
+      "x": 4.002,
+      "y": 1.05,
+      "z": 0.714,
+      "width": 0.882,
+      "depth": 0.125,
+      "height": 2.111
+    },
+    {
+      "id": 7,
+      "category": "table",
+      "x": 1.921,
+      "y": 0.375,
+      "z": 1.129,
+      "width": 1.209,
+      "depth": 0.824,
+      "height": 0.769
+    },
+    {
+      "id": 8,
+      "category": "door",
+      "x": 2.512,
+      "y": 1.05,
+      "z": 2.694,
+      "width": 0.922,
+      "depth": 0.118,
+      "height": 2.099
+    }
+  ],
+  "source": "real_sensor"
+}

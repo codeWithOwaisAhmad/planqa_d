@@ -1,0 +1,10 @@
+This is a meeting room that is approximately 5.9 meters wide and 4.5 meters deep.
+The reference point is the main door, located at the near-left corner. All positions are measured from this door.
+The room contains 6 objects:
+
+- A table: 1.7m to the right, 3.7m from the door, dimensions 1.2m wide x 0.8m deep x 0.8m tall.
+- A bookshelf: 2.1m from the right wall, 1.0m from the door, dimensions 0.9m wide x 0.3m deep x 1.8m tall.
+- A table: 2.9m to the right, 3.2m from the door, dimensions 1.2m wide x 0.8m deep x 0.7m tall.
+- A table: 2.5m to the right, 2.0m from the door, dimensions 1.2m wide x 0.8m deep x 0.7m tall.
+- A chair: 0.2m from the right wall, 0.6m from the door, dimensions 0.4m wide x 0.5m deep x 0.8m tall.
+- A door: 1.7m to the right, 1.0m from the door, dimensions 0.9m wide x 0.1m deep x 2.1m tall.

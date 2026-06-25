@@ -1,0 +1,80 @@
+{"room_id": "room_001_classroom", "question_type": "distance_comparison", "question": "Is the chair closer to the chair (id 1) or to the chair (id 7)?", "answer": "chair", "answer_id": 1, "question_index": 1}
+{"room_id": "room_001_classroom", "question_type": "distance_comparison", "question": "Is the chair closer to the chair (id 7) or to the chair (id 1)?", "answer": "chair", "answer_id": 1, "question_index": 2}
+{"room_id": "room_001_classroom", "question_type": "direction", "question": "What object is to the right of the bookshelf?", "answer": "door", "answer_id": 3, "question_index": 3}
+{"room_id": "room_001_classroom", "question_type": "direction", "question": "What object is closer to the door than the chair?", "answer": "bookshelf", "answer_id": 5, "question_index": 4}
+{"room_id": "room_001_classroom", "question_type": "existence", "question": "Is there a window in this room?", "answer": "no", "answer_id": null, "question_index": 5}
+{"room_id": "room_001_classroom", "question_type": "existence", "question": "Is there a bookshelf in this room?", "answer": "yes", "answer_id": null, "question_index": 6}
+{"room_id": "room_001_classroom", "question_type": "count", "question": "How many chairs are in this room?", "answer": "4", "answer_id": null, "question_index": 7}
+{"room_id": "room_001_classroom", "question_type": "count", "question": "How many chairs are in this room?", "answer": "4", "answer_id": null, "question_index": 8}
+{"room_id": "room_002_classroom", "question_type": "distance_comparison", "question": "Is the bookshelf closer to the door or to the chair?", "answer": "door", "answer_id": 4, "question_index": 1}
+{"room_id": "room_002_classroom", "question_type": "distance_comparison", "question": "Is the door closer to the bookshelf or to the chair?", "answer": "bookshelf", "answer_id": 8, "question_index": 2}
+{"room_id": "room_002_classroom", "question_type": "direction", "question": "What object is to the left of the bookshelf?", "answer": "table", "answer_id": 2, "question_index": 3}
+{"room_id": "room_002_classroom", "question_type": "direction", "question": "What object is to the right of the table?", "answer": "bookshelf", "answer_id": 8, "question_index": 4}
+{"room_id": "room_002_classroom", "question_type": "existence", "question": "Is there a window in this room?", "answer": "no", "answer_id": null, "question_index": 5}
+{"room_id": "room_002_classroom", "question_type": "existence", "question": "Is there a door in this room?", "answer": "yes", "answer_id": null, "question_index": 6}
+{"room_id": "room_002_classroom", "question_type": "count", "question": "How many doors are in this room?", "answer": "2", "answer_id": null, "question_index": 7}
+{"room_id": "room_002_classroom", "question_type": "count", "question": "How many doors are in this room?", "answer": "2", "answer_id": null, "question_index": 8}
+{"room_id": "room_003_classroom", "question_type": "distance_comparison", "question": "Is the chair closer to the door or to the desk?", "answer": "desk", "answer_id": 3, "question_index": 1}
+{"room_id": "room_003_classroom", "question_type": "distance_comparison", "question": "Is the chair closer to the table or to the window?", "answer": "window", "answer_id": 8, "question_index": 2}
+{"room_id": "room_003_classroom", "question_type": "direction", "question": "What object is closer to the door than the door?", "answer": "chair", "answer_id": 5, "question_index": 3}
+{"room_id": "room_003_classroom", "question_type": "direction", "question": "What object is farther from the door than the table?", "answer": "window", "answer_id": 8, "question_index": 4}
+{"room_id": "room_003_classroom", "question_type": "existence", "question": "Is there a desk in this room?", "answer": "yes", "answer_id": null, "question_index": 5}
+{"room_id": "room_003_classroom", "question_type": "existence", "question": "Is there a bookshelf in this room?", "answer": "no", "answer_id": null, "question_index": 6}
+{"room_id": "room_003_classroom", "question_type": "count", "question": "How many doors are in this room?", "answer": "3", "answer_id": null, "question_index": 7}
+{"room_id": "room_003_classroom", "question_type": "count", "question": "How many doors are in this room?", "answer": "3", "answer_id": null, "question_index": 8}
+{"room_id": "room_004_meeting_room", "question_type": "distance_comparison", "question": "Is the chair closer to the table (id 4) or to the table (id 3)?", "answer": "table", "answer_id": 4, "question_index": 1}
+{"room_id": "room_004_meeting_room", "question_type": "distance_comparison", "question": "Is the bookshelf closer to the door or to the table?", "answer": "table", "answer_id": 4, "question_index": 2}
+{"room_id": "room_004_meeting_room", "question_type": "direction", "question": "What object is farther from the door than the bookshelf?", "answer": "table", "answer_id": 1, "question_index": 3}
+{"room_id": "room_004_meeting_room", "question_type": "direction", "question": "What object is closer to the door than the table?", "answer": "door", "answer_id": 6, "question_index": 4}
+{"room_id": "room_004_meeting_room", "question_type": "existence", "question": "Is there a table in this room?", "answer": "yes", "answer_id": null, "question_index": 5}
+{"room_id": "room_004_meeting_room", "question_type": "existence", "question": "Is there a bookshelf in this room?", "answer": "yes", "answer_id": null, "question_index": 6}
+{"room_id": "room_004_meeting_room", "question_type": "count", "question": "How many tables are in this room?", "answer": "3", "answer_id": null, "question_index": 7}
+{"room_id": "room_004_meeting_room", "question_type": "count", "question": "How many tables are in this room?", "answer": "3", "answer_id": null, "question_index": 8}
+{"room_id": "room_005_office", "question_type": "distance_comparison", "question": "Is the cabinet closer to the bookshelf or to the door?", "answer": "bookshelf", "answer_id": 2, "question_index": 1}
+{"room_id": "room_005_office", "question_type": "distance_comparison", "question": "Is the cabinet closer to the cabinet or to the bookshelf?", "answer": "bookshelf", "answer_id": 3, "question_index": 2}
+{"room_id": "room_005_office", "question_type": "direction", "question": "What object is to the right of the desk?", "answer": "door", "answer_id": 6, "question_index": 3}
+{"room_id": "room_005_office", "question_type": "direction", "question": "What object is to the right of the bookshelf?", "answer": "door", "answer_id": 6, "question_index": 4}
+{"room_id": "room_005_office", "question_type": "existence", "question": "Is there a window in this room?", "answer": "no", "answer_id": null, "question_index": 5}
+{"room_id": "room_005_office", "question_type": "existence", "question": "Is there a chair in this room?", "answer": "no", "answer_id": null, "question_index": 6}
+{"room_id": "room_005_office", "question_type": "count", "question": "How many bookshelfs are in this room?", "answer": "2", "answer_id": null, "question_index": 7}
+{"room_id": "room_005_office", "question_type": "count", "question": "How many bookshelfs are in this room?", "answer": "2", "answer_id": null, "question_index": 8}
+{"room_id": "room_006_living_room", "question_type": "distance_comparison", "question": "Is the door closer to the window or to the chair?", "answer": "window", "answer_id": 5, "question_index": 1}
+{"room_id": "room_006_living_room", "question_type": "distance_comparison", "question": "Is the window closer to the door or to the cabinet?", "answer": "cabinet", "answer_id": 7, "question_index": 2}
+{"room_id": "room_006_living_room", "question_type": "direction", "question": "What object is closer to the door than the table?", "answer": "door", "answer_id": 6, "question_index": 3}
+{"room_id": "room_006_living_room", "question_type": "direction", "question": "What object is closer to the door than the cabinet?", "answer": "door", "answer_id": 8, "question_index": 4}
+{"room_id": "room_006_living_room", "question_type": "existence", "question": "Is there a bookshelf in this room?", "answer": "no", "answer_id": null, "question_index": 5}
+{"room_id": "room_006_living_room", "question_type": "existence", "question": "Is there a desk in this room?", "answer": "no", "answer_id": null, "question_index": 6}
+{"room_id": "room_006_living_room", "question_type": "count", "question": "How many cabinets are in this room?", "answer": "2", "answer_id": null, "question_index": 7}
+{"room_id": "room_006_living_room", "question_type": "count", "question": "How many cabinets are in this room?", "answer": "2", "answer_id": null, "question_index": 8}
+{"room_id": "room_007_living_room", "question_type": "distance_comparison", "question": "Is the window closer to the window or to the cabinet?", "answer": "window", "answer_id": 4, "question_index": 1}
+{"room_id": "room_007_living_room", "question_type": "distance_comparison", "question": "Is the door closer to the cabinet or to the window?", "answer": "cabinet", "answer_id": 2, "question_index": 2}
+{"room_id": "room_007_living_room", "question_type": "direction", "question": "What object is farther from the door than the window?", "answer": "cabinet", "answer_id": 2, "question_index": 3}
+{"room_id": "room_007_living_room", "question_type": "direction", "question": "What object is farther from the door than the window?", "answer": "door", "answer_id": 5, "question_index": 4}
+{"room_id": "room_007_living_room", "question_type": "existence", "question": "Is there a table in this room?", "answer": "no", "answer_id": null, "question_index": 5}
+{"room_id": "room_007_living_room", "question_type": "existence", "question": "Is there a chair in this room?", "answer": "yes", "answer_id": null, "question_index": 6}
+{"room_id": "room_007_living_room", "question_type": "count", "question": "How many windows are in this room?", "answer": "3", "answer_id": null, "question_index": 7}
+{"room_id": "room_007_living_room", "question_type": "count", "question": "How many windows are in this room?", "answer": "3", "answer_id": null, "question_index": 8}
+{"room_id": "room_008_meeting_room", "question_type": "distance_comparison", "question": "Is the door closer to the bookshelf or to the window?", "answer": "bookshelf", "answer_id": 5, "question_index": 1}
+{"room_id": "room_008_meeting_room", "question_type": "distance_comparison", "question": "Is the bookshelf closer to the window or to the chair?", "answer": "chair", "answer_id": 1, "question_index": 2}
+{"room_id": "room_008_meeting_room", "question_type": "direction", "question": "What object is to the right of the window?", "answer": "bookshelf", "answer_id": 5, "question_index": 3}
+{"room_id": "room_008_meeting_room", "question_type": "direction", "question": "What object is closer to the door than the chair?", "answer": "table", "answer_id": 7, "question_index": 4}
+{"room_id": "room_008_meeting_room", "question_type": "existence", "question": "Is there a bookshelf in this room?", "answer": "yes", "answer_id": null, "question_index": 5}
+{"room_id": "room_008_meeting_room", "question_type": "existence", "question": "Is there a desk in this room?", "answer": "no", "answer_id": null, "question_index": 6}
+{"room_id": "room_008_meeting_room", "question_type": "count", "question": "How many chairs are in this room?", "answer": "2", "answer_id": null, "question_index": 7}
+{"room_id": "room_008_meeting_room", "question_type": "count", "question": "How many chairs are in this room?", "answer": "2", "answer_id": null, "question_index": 8}
+{"room_id": "room_009_office", "question_type": "distance_comparison", "question": "Is the door closer to the door or to the desk?", "answer": "door", "answer_id": 4, "question_index": 1}
+{"room_id": "room_009_office", "question_type": "distance_comparison", "question": "Is the door closer to the cabinet (id 1) or to the cabinet (id 9)?", "answer": "cabinet", "answer_id": 9, "question_index": 2}
+{"room_id": "room_009_office", "question_type": "direction", "question": "What object is to the left of the window?", "answer": "cabinet", "answer_id": 9, "question_index": 3}
+{"room_id": "room_009_office", "question_type": "direction", "question": "What object is to the left of the desk?", "answer": "cabinet", "answer_id": 1, "question_index": 4}
+{"room_id": "room_009_office", "question_type": "existence", "question": "Is there a table in this room?", "answer": "no", "answer_id": null, "question_index": 5}
+{"room_id": "room_009_office", "question_type": "existence", "question": "Is there a desk in this room?", "answer": "yes", "answer_id": null, "question_index": 6}
+{"room_id": "room_009_office", "question_type": "count", "question": "How many desks are in this room?", "answer": "3", "answer_id": null, "question_index": 7}
+{"room_id": "room_009_office", "question_type": "count", "question": "How many desks are in this room?", "answer": "3", "answer_id": null, "question_index": 8}
+{"room_id": "room_010_classroom", "question_type": "distance_comparison", "question": "Is the desk closer to the table or to the door?", "answer": "table", "answer_id": 1, "question_index": 1}
+{"room_id": "room_010_classroom", "question_type": "distance_comparison", "question": "Is the bookshelf closer to the door or to the window?", "answer": "window", "answer_id": 4, "question_index": 2}
+{"room_id": "room_010_classroom", "question_type": "direction", "question": "What object is farther from the door than the bookshelf?", "answer": "window", "answer_id": 4, "question_index": 3}
+{"room_id": "room_010_classroom", "question_type": "direction", "question": "What object is to the right of the table?", "answer": "door", "answer_id": 8, "question_index": 4}
+{"room_id": "room_010_classroom", "question_type": "existence", "question": "Is there a window in this room?", "answer": "yes", "answer_id": null, "question_index": 5}
+{"room_id": "room_010_classroom", "question_type": "existence", "question": "Is there a cabinet in this room?", "answer": "no", "answer_id": null, "question_index": 6}
+{"room_id": "room_010_classroom", "question_type": "count", "question": "How many tables are in this room?", "answer": "2", "answer_id": null, "question_index": 7}
+{"room_id": "room_010_classroom", "question_type": "count", "question": "How many tables are in this room?", "answer": "2", "answer_id": null, "question_index": 8}

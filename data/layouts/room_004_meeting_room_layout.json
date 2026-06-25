@@ -1,0 +1,73 @@
+{
+  "room_id": "room_004_meeting_room",
+  "room_type": "meeting_room",
+  "room_dimensions": {
+    "width": 5.9,
+    "depth": 4.5
+  },
+  "num_objects": 6,
+  "objects_skipped": 0,
+  "objects": [
+    {
+      "id": 1,
+      "category": "table",
+      "x": 1.692,
+      "y": 0.375,
+      "z": 3.745,
+      "width": 1.165,
+      "depth": 0.834,
+      "height": 0.773
+    },
+    {
+      "id": 2,
+      "category": "bookshelf",
+      "x": 3.836,
+      "y": 0.9,
+      "z": 1.003,
+      "width": 0.942,
+      "depth": 0.258,
+      "height": 1.818
+    },
+    {
+      "id": 3,
+      "category": "table",
+      "x": 2.932,
+      "y": 0.375,
+      "z": 3.25,
+      "width": 1.183,
+      "depth": 0.803,
+      "height": 0.735
+    },
+    {
+      "id": 4,
+      "category": "table",
+      "x": 2.55,
+      "y": 0.375,
+      "z": 1.969,
+      "width": 1.168,
+      "depth": 0.814,
+      "height": 0.722
+    },
+    {
+      "id": 5,
+      "category": "chair",
+      "x": 5.669,
+      "y": 0.425,
+      "z": 0.584,
+      "width": 0.44,
+      "depth": 0.474,
+      "height": 0.813
+    },
+    {
+      "id": 6,
+      "category": "door",
+      "x": 1.705,
+      "y": 1.05,
+      "z": 0.951,
+      "width": 0.852,
+      "depth": 0.106,
+      "height": 2.108
+    }
+  ],
+  "source": "real_sensor"
+}

@@ -1,0 +1,93 @@
+{
+  "room_id": "room_006_living_room",
+  "room_type": "living_room",
+  "room_dimensions": {
+    "width": 6.76,
+    "depth": 5.76
+  },
+  "num_objects": 8,
+  "objects_skipped": 0,
+  "objects": [
+    {
+      "id": 1,
+      "category": "table",
+      "x": 3.704,
+      "y": 0.375,
+      "z": 4.976,
+      "width": 1.205,
+      "depth": 0.802,
+      "height": 0.716
+    },
+    {
+      "id": 2,
+      "category": "chair",
+      "x": 5.859,
+      "y": 0.425,
+      "z": 4.194,
+      "width": 0.482,
+      "depth": 0.482,
+      "height": 0.809
+    },
+    {
+      "id": 3,
+      "category": "cabinet",
+      "x": 2.397,
+      "y": 0.9,
+      "z": 3.91,
+      "width": 0.815,
+      "depth": 0.415,
+      "height": 1.916
+    },
+    {
+      "id": 4,
+      "category": "table",
+      "x": 5.679,
+      "y": 0.375,
+      "z": 0.709,
+      "width": 1.229,
+      "depth": 0.82,
+      "height": 0.741
+    },
+    {
+      "id": 5,
+      "category": "window",
+      "x": 2.493,
+      "y": 0.6,
+      "z": 0.752,
+      "width": 1.193,
+      "depth": 0.085,
+      "height": 1.202
+    },
+    {
+      "id": 6,
+      "category": "door",
+      "x": 4.702,
+      "y": 1.05,
+      "z": 3.131,
+      "width": 0.921,
+      "depth": 0.052,
+      "height": 2.086
+    },
+    {
+      "id": 7,
+      "category": "cabinet",
+      "x": 1.343,
+      "y": 0.9,
+      "z": 0.396,
+      "width": 0.768,
+      "depth": 0.379,
+      "height": 1.82
+    },
+    {
+      "id": 8,
+      "category": "door",
+      "x": 0.659,
+      "y": 1.05,
+      "z": 2.124,
+      "width": 0.901,
+      "depth": 0.08,
+      "height": 2.164
+    }
+  ],
+  "source": "real_sensor"
+}

@@ -1,0 +1,10 @@
+This is a living room that is approximately 5.4 meters wide and 4.5 meters deep.
+The reference point is the main door, located at the near-left corner. All positions are measured from this door.
+The room contains 6 objects:
+
+- A chair: 1.4m to the right, 0.8m from the door, dimensions 0.5m wide x 0.4m deep x 0.9m tall.
+- A cabinet: 1.2m to the right, 4.0m from the door, dimensions 0.8m wide x 0.4m deep x 1.8m tall.
+- A window: 1.7m from the right wall, 1.1m from the door, dimensions 1.2m wide x 0.2m deep x 1.2m tall.
+- A window: 0.7m to the right, 2.2m from the door, dimensions 1.3m wide x 0.1m deep x 1.2m tall.
+- A door: 1.3m from the right wall, 3.9m from the door, dimensions 0.9m wide x 0.1m deep x 2.1m tall.
+- A window: 1.7m to the right, 0.4m from the door, dimensions 1.1m wide x 0.1m deep x 1.2m tall.

@@ -1,0 +1,66 @@
+[
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "distance_comparison",
+    "question": "Is the chair closer to the chair (id 1) or to the chair (id 7)?",
+    "answer": "chair",
+    "answer_id": 1,
+    "question_index": 1
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "distance_comparison",
+    "question": "Is the chair closer to the chair (id 7) or to the chair (id 1)?",
+    "answer": "chair",
+    "answer_id": 1,
+    "question_index": 2
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "direction",
+    "question": "What object is to the right of the bookshelf?",
+    "answer": "door",
+    "answer_id": 3,
+    "question_index": 3
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "direction",
+    "question": "What object is closer to the door than the chair?",
+    "answer": "bookshelf",
+    "answer_id": 5,
+    "question_index": 4
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "existence",
+    "question": "Is there a window in this room?",
+    "answer": "no",
+    "answer_id": null,
+    "question_index": 5
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "existence",
+    "question": "Is there a bookshelf in this room?",
+    "answer": "yes",
+    "answer_id": null,
+    "question_index": 6
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "count",
+    "question": "How many chairs are in this room?",
+    "answer": "4",
+    "answer_id": null,
+    "question_index": 7
+  },
+  {
+    "room_id": "room_001_classroom",
+    "question_type": "count",
+    "question": "How many chairs are in this room?",
+    "answer": "4",
+    "answer_id": null,
+    "question_index": 8
+  }
+]

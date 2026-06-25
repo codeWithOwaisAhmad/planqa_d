@@ -1,0 +1,73 @@
+{
+  "room_id": "room_005_office",
+  "room_type": "office",
+  "room_dimensions": {
+    "width": 5.75,
+    "depth": 3.15
+  },
+  "num_objects": 6,
+  "objects_skipped": 4,
+  "objects": [
+    {
+      "id": 2,
+      "category": "bookshelf",
+      "x": 2.669,
+      "y": 0.9,
+      "z": 1.373,
+      "width": 0.88,
+      "depth": 0.307,
+      "height": 1.809
+    },
+    {
+      "id": 3,
+      "category": "bookshelf",
+      "x": 3.898,
+      "y": 0.9,
+      "z": 0.685,
+      "width": 0.914,
+      "depth": 0.264,
+      "height": 1.82
+    },
+    {
+      "id": 6,
+      "category": "door",
+      "x": 4.584,
+      "y": 1.05,
+      "z": 1.241,
+      "width": 0.898,
+      "depth": 0.11,
+      "height": 2.108
+    },
+    {
+      "id": 7,
+      "category": "desk",
+      "x": 0.822,
+      "y": 0.375,
+      "z": 0.51,
+      "width": 1.244,
+      "depth": 0.592,
+      "height": 0.832
+    },
+    {
+      "id": 8,
+      "category": "cabinet",
+      "x": 1.722,
+      "y": 0.9,
+      "z": 1.999,
+      "width": 0.768,
+      "depth": 0.414,
+      "height": 1.793
+    },
+    {
+      "id": 9,
+      "category": "cabinet",
+      "x": 3.63,
+      "y": 0.9,
+      "z": 1.481,
+      "width": 0.798,
+      "depth": 0.375,
+      "height": 1.755
+    }
+  ],
+  "source": "real_sensor"
+}

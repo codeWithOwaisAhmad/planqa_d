@@ -1,0 +1,73 @@
+{
+  "room_id": "room_007_living_room",
+  "room_type": "living_room",
+  "room_dimensions": {
+    "width": 5.42,
+    "depth": 4.5
+  },
+  "num_objects": 6,
+  "objects_skipped": 0,
+  "objects": [
+    {
+      "id": 1,
+      "category": "chair",
+      "x": 1.433,
+      "y": 0.425,
+      "z": 0.782,
+      "width": 0.456,
+      "depth": 0.43,
+      "height": 0.876
+    },
+    {
+      "id": 2,
+      "category": "cabinet",
+      "x": 1.189,
+      "y": 0.9,
+      "z": 3.984,
+      "width": 0.815,
+      "depth": 0.426,
+      "height": 1.764
+    },
+    {
+      "id": 3,
+      "category": "window",
+      "x": 3.685,
+      "y": 0.6,
+      "z": 1.118,
+      "width": 1.18,
+      "depth": 0.153,
+      "height": 1.212
+    },
+    {
+      "id": 4,
+      "category": "window",
+      "x": 0.7,
+      "y": 0.6,
+      "z": 2.166,
+      "width": 1.264,
+      "depth": 0.131,
+      "height": 1.154
+    },
+    {
+      "id": 5,
+      "category": "door",
+      "x": 4.135,
+      "y": 1.05,
+      "z": 3.946,
+      "width": 0.879,
+      "depth": 0.113,
+      "height": 2.123
+    },
+    {
+      "id": 6,
+      "category": "window",
+      "x": 1.729,
+      "y": 0.6,
+      "z": 0.352,
+      "width": 1.103,
+      "depth": 0.069,
+      "height": 1.192
+    }
+  ],
+  "source": "real_sensor"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "room_id": "room_009_office",
+    "question_type": "distance_comparison",
+    "question": "Is the door closer to the door or to the desk?",
+    "answer": "door",
+    "answer_id": 4,
+    "question_index": 1
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "distance_comparison",
+    "question": "Is the door closer to the cabinet (id 1) or to the cabinet (id 9)?",
+    "answer": "cabinet",
+    "answer_id": 9,
+    "question_index": 2
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "direction",
+    "question": "What object is to the left of the window?",
+    "answer": "cabinet",
+    "answer_id": 9,
+    "question_index": 3
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "direction",
+    "question": "What object is to the left of the desk?",
+    "answer": "cabinet",
+    "answer_id": 1,
+    "question_index": 4
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "existence",
+    "question": "Is there a table in this room?",
+    "answer": "no",
+    "answer_id": null,
+    "question_index": 5
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "existence",
+    "question": "Is there a desk in this room?",
+    "answer": "yes",
+    "answer_id": null,
+    "question_index": 6
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "count",
+    "question": "How many desks are in this room?",
+    "answer": "3",
+    "answer_id": null,
+    "question_index": 7
+  },
+  {
+    "room_id": "room_009_office",
+    "question_type": "count",
+    "question": "How many desks are in this room?",
+    "answer": "3",
+    "answer_id": null,
+    "question_index": 8
+  }
+]

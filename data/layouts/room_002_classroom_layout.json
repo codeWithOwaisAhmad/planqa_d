@@ -1,0 +1,83 @@
+{
+  "room_id": "room_002_classroom",
+  "room_type": "classroom",
+  "room_dimensions": {
+    "width": 8.76,
+    "depth": 6.91
+  },
+  "num_objects": 7,
+  "objects_skipped": 1,
+  "objects": [
+    {
+      "id": 1,
+      "category": "chair",
+      "x": 2.198,
+      "y": 0.425,
+      "z": 3.22,
+      "width": 0.391,
+      "depth": 0.41,
+      "height": 0.856
+    },
+    {
+      "id": 2,
+      "category": "table",
+      "x": 2.297,
+      "y": 0.375,
+      "z": 2.389,
+      "width": 1.197,
+      "depth": 0.791,
+      "height": 0.706
+    },
+    {
+      "id": 4,
+      "category": "door",
+      "x": 7.42,
+      "y": 1.05,
+      "z": 4.407,
+      "width": 0.88,
+      "depth": 0.118,
+      "height": 2.131
+    },
+    {
+      "id": 5,
+      "category": "door",
+      "x": 4.733,
+      "y": 1.05,
+      "z": 5.093,
+      "width": 0.891,
+      "depth": 0.11,
+      "height": 2.129
+    },
+    {
+      "id": 6,
+      "category": "chair",
+      "x": 8.489,
+      "y": 0.425,
+      "z": 1.109,
+      "width": 0.417,
+      "depth": 0.414,
+      "height": 0.874
+    },
+    {
+      "id": 7,
+      "category": "bookshelf",
+      "x": 1.719,
+      "y": 0.9,
+      "z": 1.203,
+      "width": 0.93,
+      "depth": 0.311,
+      "height": 1.781
+    },
+    {
+      "id": 8,
+      "category": "bookshelf",
+      "x": 5.152,
+      "y": 0.9,
+      "z": 3.319,
+      "width": 0.899,
+      "depth": 0.347,
+      "height": 1.721
+    }
+  ],
+  "source": "real_sensor"
+}
